@@ -1,0 +1,18 @@
+{
+  "name": "fis3-command-publish",
+  "version": "1.0.0",
+  "description": "糯米旅游上线到cms的fis插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis3"
+  ],
+  "author": "yanbin01@baidu.com",
+  "license": "BSD",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "juicer": ""
+  }
+}
